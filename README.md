@@ -30,7 +30,7 @@ The income analysis section focuses on salary-related metrics, including:
 2. Users should be able to filter the list based on any of the available columns.
 
 # Data Generation
-# Chat-GPT Prompts
+## Chat-GPT Prompts
 
 Generate python script to generate a realistic dataset of 8950 records for human resources. The dataset should include the following attributes:
 
